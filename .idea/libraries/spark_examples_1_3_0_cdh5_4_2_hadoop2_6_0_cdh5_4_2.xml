@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-examples-1.3.0-cdh5.4.2-hadoop2.6.0-cdh5.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/spark-examples-1.3.0-cdh5.4.2-hadoop2.6.0-cdh5.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

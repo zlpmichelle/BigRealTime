@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pca">
+    <output-path>$PROJECT_DIR$/out/artifacts/pca</output-path>
+    <root id="archive" name="pca.jar">
+      <element id="module-output" name="BigRealTime" />
+    </root>
+  </artifact>
+</component>

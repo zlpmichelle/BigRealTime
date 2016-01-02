@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-streaming-flume_2.10-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/spark-streaming-flume_2.10-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
